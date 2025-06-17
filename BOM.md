@@ -1,0 +1,27 @@
+# OP62 - Bill of Materials
+- PCB
+    - **Vendor**: JLCPCB
+    - **Price**: $28.77
+        - **Merchandise Total:** $17.10
+        - **Shipping Estimate:** $6.87
+        - **Customs duties & taxes:** $4.80
+- Orpheus Pico // Raspberry Pi Pico
+    - With headers
+    - To be supplied by HQ
+- 3D Printed Case
+    - To be printed by HQ
+    - **Filament Colour:** White
+- [Magnets](https://amzn.eu/d/0Vj31Tx)
+    - **Purpose:** To hold the case together instead of screws.
+    - **Vendor:** Amazon UK
+    - **Price:** £5.99
+- 62 [Prevail Epsilon Switches](https://www.mechmods.co.uk/products/prevail-epsilon-switches)
+    - **Vendor:** MechMods UK
+    - **Price:** 10 switches - £4.40 // Per switch ~£0.44 
+- 62 1N4148 Diodes
+- [White & Orange Double Shot PBT Keycaps](https://www.etsy.com/uk/listing/1345560507/isoansi-white-orange-double-shot-pbt?variation0=3017525970&variation1=3017525968)
+    - **Vendor:** KromeKeycaps // Etsy
+    - **Price:** £24.99
+- [TX AP Clip-in Stabilisers](https://www.mechmods.co.uk/products/tx-ap-clip-in-stabilisers?variant=44091474477279)
+    - **Vendor:** MechMods UK
+    - **Price:** £18.50
